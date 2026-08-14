@@ -1,0 +1,5 @@
+{
+  "dependencies": {
+    "caspian-sdk": "^0.6.3"
+  }
+}
